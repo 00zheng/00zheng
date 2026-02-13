@@ -1,1 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&weight=900&size=50&duration=2000&pause=100&color=F70A0A&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=aura.)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=00zheng&style=flat-square)
